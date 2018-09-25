@@ -10,3 +10,9 @@ Trabajo realizado por:
 	* Parte realizada: [GitHub](#github)
 
 ---
+
+# Uso básico #
+
+**Los tres estados de Git**
+
+![Estados git](https://raw.githubusercontent.com/p92supeg/practica1/master/P1_IngenieriaSoftware_VersionImprimible.bmp)
