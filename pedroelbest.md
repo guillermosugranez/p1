@@ -1,1 +1,78 @@
 
+## GitHub ##
+## GitHub no es Git ##
+![Imagen GitHub no es Git](http://1.bp.blogspot.com/-WY2YpNr3W6g/UY6tZAc-H3I/AAAAAAAABLY/xJ9x3wIY8V8/s1600/Github2.png)
+
+### Comandos GitHub I ###
+
+Añadir repositorio remoto:
+
+	git remote add origin url
+
+Ver repositorios remotos:
+
+	git remote -v
+
+Eliminar repositorio remoto:
+
+	git remote rm
+
+Añadir cambios del repositorio local al remoto:
+
+	git push -u origin master
+
+Añadir cambios del repositorio remoto al local:
+
+	git pull
+
+### Comandos GitHub II ###
+
+Ver branches remotos:
+
+	git branch -r
+
+Ver todos los branches:
+
+	git branch -a
+
+Clonar un repositorio remoto:
+
+	git clone url
+
+### Dar seguimiento a branches remotos ###
+
+* LOCAL->REMOTO
+
+1.  Cambios en el repositorio local.
+2.  Commit de los cambios.
+3.  Añadir cambios a repositorio remoto:
+
+  git push
+
+* REMOTO->LOCAL
+
+	+ Sincronización y unión:
+  git fetch origin
+  git merge origin/master
+
+	+ En un solo paso:
+
+  git pull
+
+### Operaciones con branches remotos ###
+
+* Creación:
+1.  Crear branch local.
+2.  Hacer cambios en dicho branch.
+3.  Hacer commit.
+4.  Copiar el branch al repositorio remoto:
+
+	git push -u origin branch_remoto
+
+* Copia:
+
+	git checkout -b local remoto
+
+* Eliminación:
+
+	git push origin --delete branch_remoto
