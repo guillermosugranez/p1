@@ -1,0 +1,179 @@
+commit 487e9831e38bfd9ee223b8567128e5aa9eb76345
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Thu Sep 27 19:00:01 2018 +0200
+
+    modificacion y revision final de tutorial.md
+
+commit aa4a5798fad0568e51ac875ebbb80e9c21439a8d
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Thu Sep 27 18:45:27 2018 +0200
+
+    Concatenacion de todos los archivos
+
+commit 9e4a66af5f1010680aa2e934fc206047b1d6f205
+Author: Juan Carlos Cuadrado Gracia <juanky.141998@gmail.com>
+Date:   Thu Sep 27 12:53:34 2018 +0200
+
+    Retoco trabajo Pedro
+
+commit cb7fa2b4bf34c156b5a63f4331c705f9d9d2d186
+Author: Pedrodimak <i62dimap>
+Date:   Wed Sep 26 12:46:52 2018 +0200
+
+    Añado ultima parte
+
+commit e3b31a06457d1876c0a6d6bfb12d90f83ed24db5
+Author: Pedrodimak <i62dimap>
+Date:   Wed Sep 26 12:32:33 2018 +0200
+
+    Añado parte pedro
+
+commit c3373f4fc9c168a7f5ad59ff1b2fee015c873a74
+Merge: a6167a5 1aaf3a3
+Author: Juan Carlos Cuadrado Gracia <juanky.141998@gmail.com>
+Date:   Wed Sep 26 12:18:14 2018 +0200
+
+    Conclude merge
+
+commit 1aaf3a305195641ab10e6e970a57f479af88f583
+Author: Juan Carlos Cuadrado Gracia <juanky.141998@gmail.com>
+Date:   Wed Sep 26 12:08:49 2018 +0200
+
+    Añado parte JC
+
+commit a6167a5db83a9439ad446d5702616648a90a0778
+Author: Juan Carlos Cuadrado Gracia <juanky.141998@gmail.com>
+Date:   Wed Sep 26 12:01:03 2018 +0200
+
+    Cambio codigos pedro
+
+commit bb255f6b9e86f4a33948cf0f2b1e28fbeb28794e
+Author: Pedrodimak <i62dimap>
+Date:   Wed Sep 26 11:56:28 2018 +0200
+
+    Subo parte pedro
+
+commit 7d58f08fa357bf75f1eb3287b5063860f9c032d5
+Author: Juan Carlos Cuadrado Gracia <juanky.141998@gmail.com>
+Date:   Wed Sep 26 11:47:29 2018 +0200
+
+    Cambio formate pedro
+
+commit 119cf7e5719b191e0134f0b2222e5ea706954b8f
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 14:42:53 2018 +0200
+
+    Comandos basicos 7
+
+commit 346e44f12fc837e46f346dc6e8d379e598efce16
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 14:42:21 2018 +0200
+
+    Comandos basicos 6
+
+commit 27118b6d2bc9858ace26e6015e955d3ca1f19c85
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 14:40:05 2018 +0200
+
+    Comandos basicos 5
+
+commit 78bf44bb6f8727e62f6796c9d9f5d7caa7df09a7
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 14:39:36 2018 +0200
+
+    Comandos basicos 5
+
+commit 98deb2132dc83ae57fb1fc1df238183d977b959c
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 14:38:55 2018 +0200
+
+    Comandos basicos 4
+
+commit 317f55189cd2e4e5b7026afd27a1e5eb772525ec
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 14:38:15 2018 +0200
+
+    Comandos basicos 3
+
+commit 267a3baa48af70e235cbf8ebd885a6bc5918f5f1
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 14:36:26 2018 +0200
+
+    Revert "Comandos basicos 3"
+    
+    This reverts commit d948892c063e5abc39f4781f6fb49d4e91816333.
+
+commit d16a263923f1513bc077ed6d2872c534a54ee07a
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 14:25:48 2018 +0200
+
+    Comandos basicos 3
+
+commit dd0ed0cffe6772dd241f187626c2caf93eb4466a
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 14:25:10 2018 +0200
+
+    Comandos basicos 2
+
+commit d1c6bccd4917eab1356caadfa7cd997e7062a6eb
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 14:24:26 2018 +0200
+
+    Comandos basicos 1
+
+commit 8b1097f8c5bf23bdc0c1dac9bca9eedb3e36ecca
+Merge: de3a274 9a2bc46
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 13:53:50 2018 +0200
+
+    Merge branch 'master' of https://github.com/p92supeg/p1
+
+commit de3a2743c75c63c5be35d5ea7572e427ca232751
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 13:53:41 2018 +0200
+
+    Uso basico
+
+commit 9a2bc46031e9d2dcbdc770a5a0651fbe29858be0
+Author: Pedrodimak <i62dimap>
+Date:   Tue Sep 25 13:51:25 2018 +0200
+
+    Añado parte pedro
+
+commit 709ea67c3c172c32e8a46ef4312b3682480202bb
+Merge: 98f7807 9c870c6
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 13:42:12 2018 +0200
+
+    Merge branch 'GS_comandos'
+
+commit 9c870c601e1f3433b4e60aeebf0410e8f2187263
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 13:41:37 2018 +0200
+
+    Escribir cabecera
+
+commit 98f78076953ae824af0ee8a5e54f4443a78c5452
+Merge: 05b96ee a446a30
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 13:31:31 2018 +0200
+
+    Merge branch 'master' of https://github.com/p92supeg/p1
+
+commit a446a30efbee96bc30711733e500e66ab2b5584a
+Author: Juan Carlos Cuadrado Gracia <juanky.141998@gmail.com>
+Date:   Tue Sep 25 13:23:05 2018 +0200
+
+    Añado archivo JuanCarlos
+
+commit 05b96ee89c934e12227531b7734cd501a0916960
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 13:22:02 2018 +0200
+
+    Subir archivo ParteGuillermo
+
+commit 437df8573ee978e80820a70186fde826617f67bf
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Tue Sep 25 12:42:13 2018 +0200
+
+    first commit
