@@ -1,3 +1,15 @@
+commit c0b57cd89e9e89273a91199330050ea321915058
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Thu Sep 27 19:07:24 2018 +0200
+
+    cambio de log a log.txt
+
+commit 6958606afb41866aa852b6be663a7df08ea09a38
+Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
+Date:   Thu Sep 27 19:06:44 2018 +0200
+
+    Creacion del historial de cambios (log)
+
 commit 487e9831e38bfd9ee223b8567128e5aa9eb76345
 Author: Guillermo Sugráñez Pérez <p92supeg@uco.es>
 Date:   Thu Sep 27 19:00:01 2018 +0200
