@@ -1,3 +1,4 @@
+
 TUTORIAL GITHUB GRUPO 17*
 ==========================
 
@@ -296,18 +297,18 @@ Clonar un repositorio remoto:
 	2.  Commit de los cambios.
 	3.  Añadir cambios a repositorio remoto:
 
-		git push
+	`git push`
 
 
 * REMOTO -> LOCAL
 
-	- Sincronización y unión:
+	Sincronización y unión:
 
-		git fetch origin
+		git fetch origin		
 		git merge origin/master
 
 
-	- En un solo paso:
+	En un solo paso:
 
 		git pull
 
@@ -329,4 +330,3 @@ Clonar un repositorio remoto:
 * Eliminación:
 
 		git push origin --delete branch_remoto
-
